@@ -40,7 +40,3 @@ The results section of the code showcases detailed comparisons of the algorithms
 ## Contributing
 
 Feel free to fork this repository, experiment with new heuristics, or optimize existing algorithms. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
